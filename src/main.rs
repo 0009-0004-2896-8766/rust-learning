@@ -1,4 +1,4 @@
 fn main() {
-    println!("Hello from Rust compiled via GitHub Actions!");
-    println!("This executable was built automatically!");
+    println!("Hello from Rust!");
+    println!("Successfully cross-compiled from Linux to Windows!");
 }
